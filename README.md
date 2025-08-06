@@ -1,4 +1,4 @@
-Snake Game in Java
+# **🐍 Snake Game in Java**
 
 A fully functional Snake Game developed in Java using standard GUI components. Enjoy the classic arcade-style gameplay with modern controls and clean visuals.
 
