@@ -43,4 +43,4 @@ A fully functional Snake Game developed in Java using standard GUI components. E
 
 ## 📸 Screenshots
 
-
+Screenshot 2025-08-06 123119.png
