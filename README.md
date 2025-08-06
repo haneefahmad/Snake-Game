@@ -1,8 +1,9 @@
+
 # **🐍 Snake Game in Java**
 
 A fully functional Snake Game developed in Java using standard GUI components. Enjoy the classic arcade-style gameplay with modern controls and clean visuals.
 
-##  Features
+## Features
 
 - Built entirely in Java (no external libraries)
 - Classic snake mechanics with smooth movement
@@ -10,19 +11,19 @@ A fully functional Snake Game developed in Java using standard GUI components. E
 - Replay support after game over
 - Clean and responsive GUI
 
-##  How to Play
+## How to Play
 
 - **Arrow Keys**: Control the snake’s direction
 - Eat the food to grow the snake and increase your score
 - Avoid crashing into the wall or yourself
 
-##  Tech Stack
+## Tech Stack
 
 - **Language**: Java
 - **GUI**: Swing / AWT
 
-##  Setup and Run
-
+## Setup and Run
+````markdown
 1. Clone the repository:
    ```bash
    git clone https://github.com/haneefahmad/snake-game-java.git
@@ -41,7 +42,10 @@ A fully functional Snake Game developed in Java using standard GUI components. E
    java SnakeGame
    ```
 
-##  Screenshots
+## 📸 Screenshots
 
-![Screenshot 1](Screenshot%202025-08-06%20123248.png)  
+![Screenshot 1](Screenshot%202025-08-06%20123248.png)
 ![Screenshot 2](Screenshot%202025-08-06%20123119.png)
+
+```
+
