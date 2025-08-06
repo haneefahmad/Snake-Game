@@ -26,7 +26,7 @@ A fully functional Snake Game developed in Java using standard GUI components. E
 ````markdown
 1. Clone the repository:
    ```bash
-   git clone https://github.com/haneefahmad/snake-game-java.git
+   git clone https://github.com/haneefahmad/snakegame-java.git
    cd snake-game-java
 ````
 
